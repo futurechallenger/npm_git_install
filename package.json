@@ -1,0 +1,25 @@
+{
+  "name": "npm_git_install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurechallenger/npm_git_install.git"
+  },
+  "keywords": [
+    "npm",
+    "github",
+    "install",
+    "directly"
+  ],
+  "author": "uncle charlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurechallenger/npm_git_install/issues"
+  },
+  "homepage": "https://github.com/futurechallenger/npm_git_install#readme"
+}
